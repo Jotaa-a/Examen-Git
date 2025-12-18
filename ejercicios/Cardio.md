@@ -1,0 +1,19 @@
+# Ejercicio Cardio
+
+## Descripcion
+Los ejercicios de cardio son actividades que aumentan tu 
+frecuencia cardiaca y mejoran la resistencia.
+
+## Beneficios 
+- Aumenta la capacidad cardiovascular.
+- Ayuda a quemar calorias.
+- Mejora el estado de animo.
+
+## Intrucciones
+1. Comiensza con un calentamiento de 5-10 minutos.
+2. Realiza la actividad (correr, nadar, andar en bicicleta) diurante al menos 30 minutos.
+3. Termina con un enfriamiento y estiramiento.
+
+## Consejos 
+- Mantenga una hidratación adecuada.
+- Escoge un ritmo que puedas mantener.
