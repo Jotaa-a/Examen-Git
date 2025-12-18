@@ -18,3 +18,10 @@ El entrenamiento funcional se basa en ejercicios que imitan movimientos de la vi
 4. Ejecuta cada ejercicio durante 30–45 segundos, descansando 15–30 segundos entre ellos.
 5. Repite el circuito de 2 a 4 veces según tu nivel.
 6. Finaliza con estiramientos y respiración controlada.
+
+
+## Consejos
+- Mantén el core activado durante todos los ejercicios.
+- Prioriza la técnica y el control del movimiento.
+- Ajusta la intensidad modificando el tiempo, la velocidad o la carga.
+- Descansa adecuadamente entre sesiones para favorecer la recuperación.
