@@ -13,3 +13,7 @@ frecuencia cardiaca y mejoran la resistencia.
 1. Comiensza con un calentamiento de 5-10 minutos.
 2. Realiza la actividad (correr, nadar, andar en bicicleta) diurante al menos 30 minutos.
 3. Termina con un enfriamiento y estiramiento.
+
+## Consejos 
+- Mantenga una hidratación adecuada.
+- Escoge un ritmo que puedas mantener.
