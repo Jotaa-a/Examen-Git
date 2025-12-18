@@ -15,3 +15,9 @@ El CrossFit es un entrenamiento de alta intensidad que combina ejercicios funcio
 2. Realiza el WOD (Workout of the Day) combinando ejercicios de fuerza, cardio y gimnasia durante 15–40 minutos según tu nivel.
 3. Asegúrate de mantener la técnica correcta en cada movimiento.
 4. Finaliza con un enfriamiento y estiramientos suaves.
+
+## Consejos
+- Escucha a tu cuerpo y ajusta la intensidad.
+- Mantén una hidratación adecuada durante todo el entrenamiento.
+- Aprende la técnica de los movimientos antes de aumentar peso o velocidad.
+- Usa ropa cómoda y calzado apropiado para proteger articulaciones.
