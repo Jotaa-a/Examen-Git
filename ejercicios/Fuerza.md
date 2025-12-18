@@ -16,3 +16,10 @@ Los ejercicios de fuerza se enfocan en trabajar los músculos mediante resistenc
 3. Haz entre 2 y 4 series de 8 a 12 repeticiones por ejercicio.
 4. Descansa entre 60 y 90 segundos entre series.
 5. Finaliza con estiramientos de los músculos trabajados.
+
+
+## Consejos
+- Prioriza la técnica correcta antes de aumentar el peso.
+- Respira de forma controlada durante cada repetición.
+- Deja al menos un día de descanso entre sesiones del mismo grupo muscular.
+- Ajusta la carga según tu nivel de experiencia.
