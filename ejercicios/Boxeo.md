@@ -15,3 +15,10 @@ El boxeo es un ejercicio cardiovascular de alta intensidad que combina movimient
 2. Practica combinaciones básicas de golpes (jab, cross, gancho) durante 20–30 minutos.
 3. Incluye desplazamientos y defensa (esquives, guardia).
 4. Finaliza con estiramientos y ejercicios de respiración.
+
+
+## Consejos
+- Usa vendas y guantes para proteger las manos.
+- Mantén siempre la guardia alta.
+- Controla la respiración durante los golpes.
+- Comienza a baja intensidad si eres principiante.
