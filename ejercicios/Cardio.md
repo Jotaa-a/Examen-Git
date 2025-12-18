@@ -8,3 +8,8 @@ frecuencia cardiaca y mejoran la resistencia.
 - Aumenta la capacidad cardiovascular.
 - Ayuda a quemar calorias.
 - Mejora el estado de animo.
+
+## Intrucciones
+1. Comiensza con un calentamiento de 5-10 minutos.
+2. Realiza la actividad (correr, nadar, andar en bicicleta) diurante al menos 30 minutos.
+3. Termina con un enfriamiento y estiramiento.
