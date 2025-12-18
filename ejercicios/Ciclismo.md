@@ -17,3 +17,9 @@ El ciclismo es una actividad cardiovascular que consiste en montar bicicleta, ya
 3. Pedalea a un ritmo moderado durante 30–60 minutos según tu nivel.
 4. Mantén una postura adecuada y una cadencia constante.
 5. Finaliza con un enfriamiento de 5 minutos a ritmo suave.
+
+## Consejos
+- Usa casco y equipo de seguridad si pedaleas al aire libre.
+- Mantente hidratado durante el recorrido.
+- Cambia de intensidad o terreno para mejorar el rendimiento.
+- Realiza estiramientos de piernas al terminar la sesión.
