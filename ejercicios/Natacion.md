@@ -16,3 +16,10 @@ La natación es un ejercicio cardiovascular de bajo impacto que se realiza en el
 2. Nada de forma continua o por intervalos durante 20–40 minutos, según tu nivel.
 3. Utiliza diferentes estilos (crol, pecho, espalda) para trabajar distintos músculos.
 4. Finaliza con un enfriamiento y estiramientos suaves.
+
+
+## Consejos
+- Mantente bien hidratado, incluso si estás en el agua.
+- Usa la técnica correcta para evitar lesiones.
+- Ajusta la intensidad a tu nivel de condición física.
+- Utiliza gafas y gorro para mayor comodidad.
