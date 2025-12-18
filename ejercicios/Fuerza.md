@@ -8,3 +8,11 @@ Los ejercicios de fuerza se enfocan en trabajar los músculos mediante resistenc
 - Mejora la salud ósea y articular.
 - Acelera el metabolismo y ayuda al control del peso.
 - Mejora la postura y la estabilidad corporal.
+
+
+## Instrucciones
+1. Comienza con un calentamiento de 5–10 minutos (movilidad articular y activación muscular).
+2. Realiza ejercicios como sentadillas, flexiones, peso muerto, press de pecho o planchas.
+3. Haz entre 2 y 4 series de 8 a 12 repeticiones por ejercicio.
+4. Descansa entre 60 y 90 segundos entre series.
+5. Finaliza con estiramientos de los músculos trabajados.
