@@ -17,3 +17,9 @@ Pilates es un método de entrenamiento que se enfoca en el control del movimient
 4. Ejecuta entre 8 y 12 repeticiones por ejercicio.
 5. Mantén el control del movimiento y la respiración durante toda la sesión.
 6. Finaliza con estiramientos suaves.
+
+## Consejos
+- Prioriza la calidad del movimiento sobre la cantidad.
+- Mantén el abdomen activado durante los ejercicios.
+- Evita movimientos bruscos o descontrolados.
+- Practica Pilates 2–4 veces por semana para mejores resultados.
