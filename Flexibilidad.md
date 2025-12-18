@@ -8,3 +8,10 @@ Los ejercicios de flexibilidad se centran en mejorar el rango de movimiento de l
 - Reduce la rigidez muscular.
 - Ayuda a prevenir lesiones.
 - Favorece la relajación y disminuye el estrés.
+
+## Instrucciones
+1. Realiza un calentamiento ligero de 5–10 minutos antes de comenzar.
+2. Ejecuta estiramientos estáticos o dinámicos según el objetivo del entrenamiento.
+3. Mantén cada estiramiento durante 15–30 segundos sin rebotes.
+4. Repite cada ejercicio de 2 a 4 veces.
+5. Respira de forma lenta y controlada durante los estiramientos.
